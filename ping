@@ -1,0 +1,7 @@
+pc
+==
+
+ping
+
+dir %SystemRoot%\System32\ping.exe
+    path %path%;%SystemRoot%\System32
